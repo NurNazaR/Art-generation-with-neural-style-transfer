@@ -20,7 +20,7 @@ Inspired by following projects
 [3]: http://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style
 [4]: https://harishnarayanan.org/writing/artistic-style-transfer/
 
-## Demo
+## Demo (click to view video)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iJvPCGDfUqs/0.jpg)](https://www.youtube.com/watch?v=iJvPCGDfUqs)
 
 
