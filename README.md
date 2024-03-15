@@ -21,7 +21,7 @@ Inspired by following projects
 [4]: https://harishnarayanan.org/writing/artistic-style-transfer/
 
 ## Demo
-![Video](https://www.youtube.com/watch?v=iJvPCGDfUqs)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iJvPCGDfUqs/0.jpg)](https://www.youtube.com/watch?v=iJvPCGDfUqs)
 
 
 ## Run Locally
